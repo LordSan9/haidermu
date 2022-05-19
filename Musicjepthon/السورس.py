@@ -83,7 +83,7 @@ MuSic  [ {OWNER_NAME} ](t.me/{CHANNEL})
 ———————×———————
 ⧉ | لأعاده تشغيل التنصيب أرسل ⇦  [ `{HNDLR}ريستارت` ]
 ———————×———————
-يوزر المطور : @EEEEE323
+يوزر المطور : @IIlAndylII
 المطور 💻 : {OWNER_NAME}
 القناة 🎈 : @{CHANNEL}
 """
@@ -102,6 +102,6 @@ async def repo(client, m: Message):
 
 ⚒️ لعرض اوامر السورس ارسل  {HNDLR}الاوامر
 
-📚 • يوزر المطور  : @EEEEE323</b>
+📚 • يوزر المطور  : @IIlAndylII</b>
 """
     await m.reply(JEPM, disable_web_page_preview=True)
